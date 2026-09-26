@@ -1,17 +1,14 @@
 # Hi, I'm Vamshi 👋
 
-I build practical automation for financial workflows and systems that must recover cleanly from failures. My work combines Python, APIs, persistent state, and tests that focus on what can go wrong in production.
+I work at the intersection of engineering operations, Python automation, and financial workflows. I'm interested in roles where I can improve processes, connect systems, and make complex work more reliable.
 
-## Featured project
+I previously worked as a Senior Structural Steel Detailer, coordinating detailed deliverables with a team and using SDS/2, AutoCAD, and Excel. That hands-on engineering experience remains part of my professional background.
 
-**[NSE Trading Automation: Telegram to Dhan](https://github.com/vamshimanni7-cell/nse-trading-automation-case-study)** — an engineering case study covering trusted signal intake, durable risk ownership, broker reconciliation, and verified day-close reporting. Includes a small read-only Python demo and tests. The live bot and account details remain private.
-
-## Areas I work in
+## Current focus
 
 - Python automation and API integrations
-- Reliable state transitions and restart recovery
-- PostgreSQL/Supabase-backed workflows
-- Adversarial testing and production observability
-- Financial reconciliation and AI-assisted workflow design
+- Data validation, reconciliation, and workflow design
+- Testing, documentation, and recovery from failures
+- AI-assisted tools for practical business operations
 
-I use AI-assisted development and verify behavior against concrete requirements, tests, and operational evidence. I value systems that make uncertainty visible rather than hiding it.
+I share work here when it is ready for a public portfolio.
